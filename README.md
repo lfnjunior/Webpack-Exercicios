@@ -1,6 +1,6 @@
 ## Webpack
 
-O Webpack funciona como um empacotador, principalmente para JavaScript, mas é usado para HTML, CSS e imagens, se os plug-ins correspondentes aos tipo de arquivos forem incluídos.
+O <a href="https://webpack.js.org/" target="_blank">Webpack</a>.Webpack funciona como um empacotador de arquivos que são interpretados por um Browser, principalmente para JavaScript, mas é usado para HTML, CSS e imagens, se os plug-ins correspondentes aos tipo de arquivos forem incluídos.
 
 ### Exercícios
 
